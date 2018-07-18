@@ -1,0 +1,3 @@
+[submodule "plugins/homebridge-bond"]
+	path = plugins/homebridge-bond
+	url = https://github.com/edc1591/homebridge-bond.git
